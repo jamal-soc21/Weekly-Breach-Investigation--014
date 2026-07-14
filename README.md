@@ -1,4 +1,5 @@
 # Weekly-Breach-Investigation--014
+<img width="1254" height="1254" alt="unnamed" src="https://github.com/user-attachments/assets/be052b39-a3be-4ce4-b7d8-99c15eb57f6d" />
 
 Weekly Breach Investigation
 Breach: CrashStealer — macOS Information Stealer
